@@ -1,0 +1,15 @@
+C:\Users\maath\Desktop\Matheus\Dev\Teste Programacao Modal\Teste 2\bin\Debug\net6.0\Teste 2.exe
+C:\Users\maath\Desktop\Matheus\Dev\Teste Programacao Modal\Teste 2\bin\Debug\net6.0\Teste 2.deps.json
+C:\Users\maath\Desktop\Matheus\Dev\Teste Programacao Modal\Teste 2\bin\Debug\net6.0\Teste 2.runtimeconfig.json
+C:\Users\maath\Desktop\Matheus\Dev\Teste Programacao Modal\Teste 2\bin\Debug\net6.0\Teste 2.dll
+C:\Users\maath\Desktop\Matheus\Dev\Teste Programacao Modal\Teste 2\bin\Debug\net6.0\Teste 2.pdb
+C:\Users\maath\Desktop\Matheus\Dev\Teste Programacao Modal\Teste 2\obj\Debug\net6.0\Teste 2.csproj.AssemblyReference.cache
+C:\Users\maath\Desktop\Matheus\Dev\Teste Programacao Modal\Teste 2\obj\Debug\net6.0\Teste 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maath\Desktop\Matheus\Dev\Teste Programacao Modal\Teste 2\obj\Debug\net6.0\Teste 2.AssemblyInfoInputs.cache
+C:\Users\maath\Desktop\Matheus\Dev\Teste Programacao Modal\Teste 2\obj\Debug\net6.0\Teste 2.AssemblyInfo.cs
+C:\Users\maath\Desktop\Matheus\Dev\Teste Programacao Modal\Teste 2\obj\Debug\net6.0\Teste 2.csproj.CoreCompileInputs.cache
+C:\Users\maath\Desktop\Matheus\Dev\Teste Programacao Modal\Teste 2\obj\Debug\net6.0\Teste 2.dll
+C:\Users\maath\Desktop\Matheus\Dev\Teste Programacao Modal\Teste 2\obj\Debug\net6.0\refint\Teste 2.dll
+C:\Users\maath\Desktop\Matheus\Dev\Teste Programacao Modal\Teste 2\obj\Debug\net6.0\Teste 2.pdb
+C:\Users\maath\Desktop\Matheus\Dev\Teste Programacao Modal\Teste 2\obj\Debug\net6.0\Teste 2.genruntimeconfig.cache
+C:\Users\maath\Desktop\Matheus\Dev\Teste Programacao Modal\Teste 2\obj\Debug\net6.0\ref\Teste 2.dll
